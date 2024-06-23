@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tusharsuthar1256.github.io/Gemini-Clone-with-React.js",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
