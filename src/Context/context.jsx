@@ -47,7 +47,7 @@ const ContextProvider = (props) => {
     newResponseArray.forEach((word, i) => delayPara(i, word + " "));
 
     setLoading(false);
-    setInput("");
+    setInput('A');
   };
   
 
